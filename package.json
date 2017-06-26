@@ -1,0 +1,8 @@
+{
+  "name": "performance-testing-platform",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/mikaelvesavuori/performance-testing-platform.git",
+  "author": "mikaelvesavuori@gmail.com",
+  "license": "MIT"
+}
